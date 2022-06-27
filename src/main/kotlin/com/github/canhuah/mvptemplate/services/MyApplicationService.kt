@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.canhuah.mvptemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.canhuah.mvptemplate.MyBundle
 
 class MyApplicationService {
 
